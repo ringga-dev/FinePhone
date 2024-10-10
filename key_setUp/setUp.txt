@@ -1,3 +1,0 @@
-pass: finePhone97
-pass alias: finePhone97
-name alias: fine_phone
